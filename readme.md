@@ -26,7 +26,7 @@ Tambien se genera un log con informacion detallada de toda la ejecución de las 
 
 Se realizan capturas de pantalla por cada test que haya fallado y se encuentran en la siguiente ubicacion: ```reports/screens/```
 
-## Ejuctar todas las pruebas
+## Ejecutar todas las pruebas
 Para iniciar la ejecucion de las pruebas debes ejecutar la siguiente linea:
 
 ```bash
