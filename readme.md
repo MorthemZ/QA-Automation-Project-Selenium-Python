@@ -10,14 +10,14 @@ Este proyecto tiene como objetivo automatizar pruebas de UI y de API para el sit
 - Logging
 - Faker
 - CSV / JSON
-- Request
+- Requests
 
 ## Reportes y Logs
 
 El proyecto genera tres tipos principales de resultados durante la ejecucion de las prubas: **reporte HTML**, **capturas de pantalla**, **archivo de log**
 
 ### Reporte HTML
-Se genera un reporte HTML detallado con el nombre de ```reporte.hmtl``` en la **carpeta raiz** del proyecto
+Se genera un reporte HTML detallado con el nombre de ```reporte.html``` en la **carpeta raiz** del proyecto
 
 ### Logs de ejecución
 Tambien se genera un log con informacion detallada de toda la ejecución de las pruebas en la siguiente ubicacion: ```logs/suite.log```
